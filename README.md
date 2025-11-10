@@ -34,31 +34,20 @@ Improvements that could be made are:
 - Making images transparent rather than filling the background of them with a simailair colour to the program background
 - Proper text formatting removing the braces in text displays
 - Proper usage of the countdown and picture_clear functions
-- Optimiation with implementation of Object Oriented Programming princaples
-
-
-Provide a few paragraphs describing:
-- The purpose of the project  
-- What the application does  
-- Why you created it  
-- Any context (first GUI, early learning project, etc.)
+- Optimiation with implementation of Object Oriented Programming princaples 
 
 ---
 
-## Features
+## Features 
 
-List out the main features of the project:
-
-- Feature 1  
-- Feature 2  
-- Feature 3  
-- Feature 4  
+- Win draw and loss totals displayed
+- Computer selection of the last match is displayed
+- Picture of player selection displayed with each choice
+- Fun colourful GUI
 
 ---
 
-## Screenshots
-
-(Add images to your repo and update the paths.)
+## Screenshots 
 
 | Description | Description | Description |
 |-------------|-------------|-------------|
@@ -66,9 +55,7 @@ List out the main features of the project:
 
 ---
 
-## Requirements
-
-List any dependencies or version requirements, for example:
+## Requirements 
 
 - python 3 ( python --version > 3.0.0 )
 - PIL ( pip install pillow )
