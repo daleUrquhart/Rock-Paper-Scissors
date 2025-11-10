@@ -9,16 +9,7 @@ First project practicing GUI and Event Driven Programming
 - [Overview](#overview)  
 - [Features](#features)  
 - [Screenshots](#screenshots)  
-- [Requirements](#requirements)  
-- [Installation](#installation)  
-- [Running the Program](#running-the-program)  
-- [Configuration](#configuration)  
-- [Project Structure](#project-structure)  
-- [How It Works](#how-it-works)  
-- [Known Issues](#known-issues)  
-- [Future Improvements](#future-improvements)  
-- [Lessons Learned](#lessons-learned)  
-- [License](#license)
+- [Requirements](#requirements)
 
 ---
 

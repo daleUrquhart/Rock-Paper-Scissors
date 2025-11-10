@@ -97,7 +97,7 @@ def rock(): # ROCK CONTROL SETTINGS
     image1 = img.resize((50, 50), Image.ANTIALIAS)
     '''
 
-    image1 = Image.open("rock.jpeg")
+    image1 = Image.open("media/rock.jpeg")
     test = ImageTk.PhotoImage(image1)    
     label1 = tk.Label(image=test)
     label1.image = test
@@ -140,7 +140,7 @@ def paper(): # PAPER CONTROL SETTINGS
     picture_clear()
     C_Input = rand.randint(1,3)
 
-    image1 = Image.open("paper.jpeg")
+    image1 = Image.open("media/paper.jpeg")
     test = ImageTk.PhotoImage(image1)    
     label1 = tk.Label(image=test)
     label1.image = test
@@ -183,7 +183,7 @@ def scissors(): # SCISSORS CONTROL SETTINGS
     picture_clear()
     C_Input = rand.randint(1,3)
     
-    image1 = Image.open("scissors.jpeg")
+    image1 = Image.open("media/scissors.jpeg")
     test = ImageTk.PhotoImage(image1)    
     label1 = tk.Label(image=test)
     label1.image = test
