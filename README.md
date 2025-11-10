@@ -51,7 +51,7 @@ Improvements that could be made are:
 
 | Description | Description | Description |
 |-------------|-------------|-------------|
-| ![](s1.png) | ![](s2.png) | ![](s3.png) |
+| ![](media/s1.png) | ![](media/s2.png) | ![](media/s3.png) |
 
 ---
 
