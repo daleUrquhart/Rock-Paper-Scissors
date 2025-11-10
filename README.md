@@ -40,7 +40,7 @@ Improvements that could be made are:
 
 ## Screenshots 
 
-| Description | Description | Description |
+| Initial Page | Loose Result | Win Result |
 |-------------|-------------|-------------|
 | ![](media/s1.png) | ![](media/s2.png) | ![](media/s3.png) |
 
