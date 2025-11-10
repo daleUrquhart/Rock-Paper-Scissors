@@ -32,7 +32,7 @@ def countdown_clear():
 def countdown():
     
     time.sleep(1)
-    res='' #res was undeclared, not sure what it was supposed to represent
+    res=''
 
     RES = tk.Label(root, text=("3...", res), bg=countdown_colour, font=("Comic Sans", 30))               
     canvas.create_window(300,400, window=RES)
